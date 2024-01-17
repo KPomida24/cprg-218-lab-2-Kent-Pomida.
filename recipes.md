@@ -80,6 +80,7 @@ Ingredients:
 - 4 hamburger buns
 - Lettuce
 - Tomato
+- bacon
 - Mayonnaise
 
 Instructions:
