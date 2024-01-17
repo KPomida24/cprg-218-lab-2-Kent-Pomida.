@@ -59,7 +59,7 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
-- 1 tomatoe
+- 1 tomato
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -114,3 +114,21 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Chocolate chip
+ingredients:
+- cup softened butter
+- 1 cup packed brown sugar
+- 1/2 cup granulated sugar
+- 2 eggs
+- 1 1/2 vanilla extract
+- 2 cups all purpose flour
+- 1 tsp salt
+- 2 cups of hersheys
+
+instructions:
+1. Heat oven to 375°F (190°C).
+2. In large bowl, beat softened butter, brown sugar and granulated sugar until fluffy. Beat in eggs and vanilla until creamy.
+3. In medium bowl, mix together flour, baking soda and salt. Gradually blend into creamed mixture.
+4. Stir in HERSHEY'S CHIPITS Semi-Sweet Chocolate Chips and chopped nuts, if using.
+5. Drop from small spoon onto ungreased cookie sheet. Bake 10 to 12 minutes until golden brown.
